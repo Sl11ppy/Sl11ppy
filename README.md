@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sl11ppy
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Comuter Science 
+- 🌱 I’m currently studying IT at JMU
 
 <!---
 Sl11ppy/Sl11ppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
